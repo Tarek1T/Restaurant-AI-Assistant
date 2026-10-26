@@ -6,6 +6,7 @@
 
 ![Bremer Virtual Concierge chat interface](assets/chat-interface.png)
 
+<img width="1562" height="943" alt="chat-interface" src="https://github.com/user-attachments/assets/abf98111-851b-4021-986a-85f4078c6290" />
 
 ---
 
